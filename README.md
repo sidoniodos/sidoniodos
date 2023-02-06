@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sidoniodos
 - 👀 I’m interested in DevNet or networking automation
-- 🌱 I’m currently learning CCNA/DevNet/Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Fultter
+- 💞️ I’m looking to collaborate on Flutter development
 - 📫 How to reach me ...
 
 <!---
